@@ -37,6 +37,7 @@ minimal_run_guide.md
 diagram_images/
 run_microservices.bat
 verify_kyc_flow.ps1
+presentation_script.md
 target/
 *.class
 .mvn/
