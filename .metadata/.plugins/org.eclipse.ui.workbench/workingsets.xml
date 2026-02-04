@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1770121591844_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1770121591893_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1770121689672_3" label="microservices-aggregator" name="microservices-aggregator">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservices" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/api-gateway" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/auth-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/booking-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/discovery-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/driver-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/kyc-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/payment-service" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1770121596449_2" label="Window Working Set" name="Aggregate for window 1770121596449"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1770145373142_4" label="Window Working Set" name="Aggregate for window 1770145373141"/>
+</workingSetManager>

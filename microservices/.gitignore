@@ -1,0 +1,46 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+*.war
+*.ear
+*.apk
+*.nar
+*.swp
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+/out/
+/build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+.factorypath
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Spring Boot
+target/
+**/.DS_Store
+**/.classpath
+**/.project
+**/.settings
+**/target/
