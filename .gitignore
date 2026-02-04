@@ -18,12 +18,23 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# 3. User Data & Uploads (CRITICAL)
-uploads/
-documents/
+# 3. User Data (Uploads kept in repo as per user request)
+# uploads/  <-- COMMENTED OUT TO INCLUDE ON GITHUB
 tmp/
 
-# 4. Java / Maven (Backend)
+# --- Local Documentation (Ignored) ---
+github_setup_guide.md
+ide_setup_guide.md
+interview_prep.md
+manual_startup_guide.md
+project_diagrams.md
+database_schema.md
+walkthrough.md
+microservices_setup_guide.md
+microservices_manual_run.md
+verification_guide.md
+minimal_run_guide.md
+diagram_images/
 target/
 *.class
 .mvn/
